@@ -1,0 +1,15 @@
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.exe
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.deps.json
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.runtimeconfig.json
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.dll
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.pdb
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.csproj.AssemblyReference.cache
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.AssemblyInfoInputs.cache
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.AssemblyInfo.cs
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.dll
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\refint\DailyPlanner.dll
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.pdb
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.genruntimeconfig.cache
+C:\Users\tttll\source\repos\DailyPlanner\DailyPlanner\obj\Debug\net6.0\ref\DailyPlanner.dll
